@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+twitter_stats.json
+non_followers.json
+*.log
+debug.log
+.vscode/
+.idea/
