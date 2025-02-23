@@ -70,13 +70,5 @@ El bot realizará las siguientes acciones:
 
 Si encuentras errores adicionales, revisa la salida de la consola y asegúrate de que la API de Twitter esté funcionando correctamente.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes modificarlo y distribuirlo libremente.
-
----
-
-### Autor: [Tu Nombre]
-
-Para dudas o mejoras, contáctame en [tu\_email\@example.com] o a través de Twitter: [@tu\_usuario].
+![imagen](https://github.com/user-attachments/assets/8bd15b53-cd21-44f6-b138-1dbef231a704)
 
